@@ -1,5 +1,5 @@
 # code the #greeting method here!\
-def greeting
+def greeting (name)
   puts "Hello, this is your greeting."
   puts "Hello #{name}!"
 end
